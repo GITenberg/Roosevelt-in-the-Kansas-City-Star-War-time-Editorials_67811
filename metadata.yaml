@@ -5,6 +5,9 @@ contributor:
     agent_name: Stout, Ralph
     gutenberg_agent_id: '54473'
     url: http://www.gutenberg.org/2009/agents/54473
+covers:
+- cover_type: archival
+  image_path: 67811-h/images/cover.jpg
 creator:
   author:
     agent_name: Roosevelt, Theodore
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67811#Roosevelt-in-the-Kansas-City-Star-War-time-Editorials
 gutenberg_issued: '2022-04-11'
 identifiers:
   gutenberg: '67811'
